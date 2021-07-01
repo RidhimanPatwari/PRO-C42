@@ -5,10 +5,10 @@ var hasDocked = false;
 function preload() {
   issImage = loadImage("images/iss.png");
   spacebgImage = loadImage("images/spacebg.jpg");
-  spacecraft1Image = loadImage("images/spacecraft1.png");
-  spacecraft2Image = loadImage("images/spacecraft2.png");
-  spacecraft3Image = loadImage("images/spacecraft3.png");
-  spacecraft4Image = loadImage("images/spacecraft4.png");
+  spacecraft1Image = loadImage("spacecraft1.png");
+  spacecraft2Image = loadImage("spacecraft2.png");
+  spacecraft3Image = loadImage("spacecraft3.png");
+  spacecraft4Image = loadImage("spacecraft4.png");
 }
 
 function setup() {
